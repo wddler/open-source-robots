@@ -95,7 +95,7 @@
     <td>Price</td>
     <td>128 EUR for parts (244 EUR for the teleoperation set)</td>
     <td>350 EUR for parts</td>
-    <td>$433 forhardware kit + $360 for 3D printed parts</td>
+    <td>$433 for hardware kit + $360 for 3D printed parts</td>
     <td>$1417 for an assembled robot</td>
     <td>$1189 for the combo kit + $730 for the motor set + 3D printing covers and spacers</td>
     <td>3640 EUR for an assembled robot</td>
@@ -119,3 +119,5 @@
     <td></td>
   </tr>
 </table>
+
+Discovered projects that were not included: [BCN3D MOVEO](https://github.com/BCN3D/BCN3D-Moveo), [Source Robotics FAZE4](https://github.com/PCrnjak/Faze4-Robotic-arm), [Low-Cost Robot Arm](https://github.com/AlexanderKoch-Koch/low_cost_robot), [Low-Cost Robot Arm: Koch v1.1](https://github.com/jess-moss/koch-v1-1)
