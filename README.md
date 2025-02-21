@@ -8,7 +8,7 @@
     <th style="width: 200px;"><a href="https://arctosrobotics.com/">Arctos<br><img src="img/arctos.png" width="100"></th>
     <th style="width: 200px;"><a href="https://emanual.robotis.com/docs/en/platform/openmanipulator_x/overview/">OpenManipulator-X by ROBOTIS<br><img src="img/open-manipulator.png" width="100"></th>
     <th style="width: 200px;"><a href="https://www.anninrobotics.com/">AR4 by Annin Robotics</a><br><img src="img/ar4.png" width="100"></th>
-    <th style="width: 200px;"><a href="https://www.anninrobotics.com/">PAROL6 by Source Robotics<br><img src="img/parol-6.png" width="100"></th>
+    <th style="width: 200px;"><a href="https://source-robotics.com/products/parol6-robotic-arm">PAROL6 by Source Robotics<br><img src="img/parol-6.png" width="100"></th>
   </tr>
   <tr>
     <td>Mechanical structure</td>
@@ -83,13 +83,13 @@
     <td>Stepper</td>
   </tr>
   <tr>
-    <td>Last activity as of 20 Feb 2025, months ago</td>
-    <td>1</td>
-    <td>25</td>
-    <td>1</td>
-    <td>1</td>
-    <td>8</td>
-    <td>1</td>
+    <td>Last activity as of 21 Feb 2025</td>
+    <td>Feb 2025</td>
+    <td>Dec 2023</td>
+    <td>Feb 2025</td>
+    <td>Feb 2025</td>
+    <td>Feb 2025</td>
+    <td>Feb 2025</td>
   </tr>
   <tr>
     <td>Price</td>
