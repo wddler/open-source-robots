@@ -97,8 +97,8 @@
     <td>350 EUR for parts</td>
     <td>$433 for hardware kit + $360 for 3D printed parts</td>
     <td>$1417 for an assembled robot</td>
-    <td>$1189 for the combo kit + $730 for the motor set + 3D printing covers and spacers</td>
-    <td>2418 EUR for an combo kit + 3D printing parts</td>
+    <td>$1189 for the combo kit + $730 for the motor set + 3D printing parts</td>
+    <td>2418 EUR for the combo kit + 3D printing parts</td>
   </tr>
   <tr>
     <td>Kit availability</td>
