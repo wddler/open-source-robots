@@ -3,12 +3,12 @@
 <table>
   <tr>
     <th style="width: 200px;"></th>
-    <th style="width: 200px;"><a href="https://github.com/TheRobotStudio/SO-ARM100/">Standard Open Arm 100 by TheRobotStudio <br><img src="img/open-arm-100.png" width="100"></th>
-    <th style="width: 200px;"><a href="https://github.com/AngelLM/Thor">Thor by AngelLM <br><img src="img/thor.png" width="100"></th>
-    <th style="width: 200px;"><a href="https://arctosrobotics.com/">Arctos<br><img src="img/arctos.png" width="100"></th>
-    <th style="width: 200px;"><a href="https://emanual.robotis.com/docs/en/platform/openmanipulator_x/overview/">OpenManipulator-X by ROBOTIS<br><img src="img/open-manipulator.png" width="100"></th>
-    <th style="width: 200px;"><a href="https://www.anninrobotics.com/">AR4 by Annin Robotics</a><br><img src="img/ar4.png" width="100"></th>
-    <th style="width: 200px;"><a href="https://source-robotics.com/products/parol6-robotic-arm">PAROL6 by Source Robotics<br><img src="img/parol-6.png" width="100"></th>
+    <th style="width: 200px;"><a href="https://github.com/TheRobotStudio/SO-ARM100/">Standard Open Arm 100 by TheRobotStudio <br><img src="img/open-arm-100.png" width="200"></th>
+    <th style="width: 200px;"><a href="https://github.com/AngelLM/Thor">Thor by AngelLM <br><img src="img/thor.png" width="200"></th>
+    <th style="width: 200px;"><a href="https://arctosrobotics.com/">Arctos<br><img src="img/arctos.png" width="200"></th>
+    <th style="width: 200px;"><a href="https://emanual.robotis.com/docs/en/platform/openmanipulator_x/overview/">OpenManipulator-X by ROBOTIS<br><img src="img/open-manipulator.png" width="200"></th>
+    <th style="width: 200px;"><a href="https://www.anninrobotics.com/">AR4 by Annin Robotics</a><br><img src="img/ar4.png" width="200"></th>
+    <th style="width: 200px;"><a href="https://source-robotics.com/products/parol6-robotic-arm">PAROL6 by Source Robotics<br><img src="img/parol-6.png" width="200"></th>
   </tr>
   <tr>
     <td>Mechanical structure</td>
