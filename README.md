@@ -7,7 +7,7 @@
 | [Arctos](https://arctosrobotics.com/) | <img src="img/arctos.png" width="200"/> | 3D Printed | 6 | 600 | 0.5 | n/a | n/a | No | Stepper | Yes | $ 433 hardware + $ 360 3D parts | Yes | - |
 | [OpenManipulator-X](https://emanual.robotis.com/docs/en/platform/openmanipulator_x/overview/) | <img src="img/open-manipulator.png" width="200"/> | Aluminum | 4 | 380 | 0.5 | < 0.2 | 0.7 | Yes | Servo | Yes | $ 1,417 assembled | No | - |
 | [AR4](https://www.anninrobotics.com/) | <img src="img/ar4.png" width="200"/> | Aluminum | 6 | 629 | 1.9 | 0.2 | 12.25 | Yes | Stepper | Yes | $ 1,189 combo + $ 730 motors + 3D printing | Yes | - |
-| [PAROL6](https://source-robotics.com/products/parol6-robotic-arm) | <img src="img/parol-6.png" width="200"/> | 3D Printed | 6 | 400 | 1 | 0.2 | 5.5 | No | Stepper | Yes | € 2,418 combo + 3D printing | Yes | - |
+| [PAROL6](https://source-robotics.com/products/parol6-robotic-arm) | <img src="img/parol-6.png" width="200"/> | 3D Printed | 6 | 400 | 1 | 0.2 | 5.5 | No | Stepper | Yes | € 2,418 combo + 3D printing | Yes | € 265 PAROL6 control board required |
 
 ## Discovered projects that were not included:
 - [BCN3D MOVEO](https://github.com/BCN3D/BCN3D-Moveo)
