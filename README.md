@@ -15,3 +15,4 @@
 - [Source Robotics FAZE4](https://github.com/PCrnjak/Faze4-Robotic-arm)
 - [Low-Cost Robot Arm](https://github.com/AlexanderKoch-Koch/low_cost_robot)
 - [Low-Cost Robot Arm: Koch v1.1](https://github.com/jess-moss/koch-v1-1)
+- [RoArm](https://www.waveshare.com/wiki/RoArm-M3)
