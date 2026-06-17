@@ -8,6 +8,7 @@
 | [OpenManipulator-X](https://emanual.robotis.com/docs/en/platform/openmanipulator_x/overview/) | <img src="img/open-manipulator.png" width="200"/> | Aluminum | 4 | 380 | 0.5 | < 0.2 | 0.7 | Yes | Servo | $ 1,417 assembled | No | - |
 | [AR4](https://anninrobotics.com/) | <img src="img/ar4.png" width="200"/> | Aluminum | 6 | 629 | 1.9 | 0.2 | 12.25 | Yes | Stepper | $ 1,189 combo + $ 730 motors + 3D printing | Yes | - |
 | [PAROL6](https://source-robotics.com/products/parol6-robotic-arm) | <img src="img/parol-6.png" width="200"/> | Plastic, 3D Printed | 6 | 400 | 1 | 0.2 | 5.5 | No | Stepper | € 2,418 combo + 3D printing | Yes | € 265 PAROL6 control board required |
+| [reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm) | <img src="img/reBot-DevArm.png" width="200"/> | Aluminum | 6 | 767 | 1.5 | 0.2 mm | 4.5 | Yes | BLDC | $ 1,256 | Yes | |
 | [TRLC-DK1](https://www.robot-learning.co/) | <img src="img/TRLC-DK1.png" width="200"/> | Aluminum | 6 | 750 | 1.5 | n/a | n/a | Yes | BLDC | € ~2,500 assembled | Yes | comes with teleoperation leader arm|
 | [OpenArm](https://openarm.dev/) | <img src="img/openarm.png" width="200"/> | Aluminum, Steel | 7 | 633 | 6 | n/a | 5.5 | Yes | BLDC | $ 6,500 for the bimanual setup | n/a but announced | - |
 
